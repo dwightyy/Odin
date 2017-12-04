@@ -1,0 +1,14 @@
+*{margin: 0;padding: 0;}
+
+.conteiner1{
+  display: flex;
+  width: 1000px;
+  height: 1000px;
+  flex-wrap: wrap;
+}
+div{
+  height: 10px;
+  width: 10px;
+  background: blue;
+
+}
