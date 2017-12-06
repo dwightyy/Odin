@@ -2,13 +2,28 @@
 
 .conteiner1{
   display: flex;
-  width: 1000px;
-  height: 1000px;
+  width: 400px;
+  height: 400px;
   flex-wrap: wrap;
+  margin: auto;
 }
 div{
-  height: 10px;
-  width: 10px;
+  height: 25px;
+  width: 25px;
   background: blue;
 
+}
+
+.btn{
+  display: block;
+  width: 100px;
+  margin: 0 auto;
+
+}
+
+p{
+  margin-top: 10%;\
+  height: = 10px;
+  position: relative;
+  left: 95%;
 }
